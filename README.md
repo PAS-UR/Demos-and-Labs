@@ -5,3 +5,5 @@ Scripts and resources for PAS demos and labs.
 The PAS Physics Demos web page is available at [teacher.pas.rochester.edu](http://teacher.pas.rochester.edu/physicsdemos/).
 
 The PAS lab schedule and individual lab manuals are available on the [Physlabs website](https://www.pas.rochester.edu/~physlabs/).
+
+The [PASSAGE Outreach website](https://www.pas.rochester.edu/~passage/outreach.html) includes information about the use of demos for education and public outreach.
